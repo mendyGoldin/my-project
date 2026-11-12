@@ -1,5 +1,7 @@
 # Project Proposal
 
+Degree level: Bachelor’s
+
 **Project Title: Agentic Analog Filter Design: Automated Filter-Type and Topology Selection, Component Optimization, and SPICE Verification**
 
 ## 1. The problem and goal
